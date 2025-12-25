@@ -156,6 +156,7 @@ export default {
   "5432": "yeying",
   "5464": "saga",
   "5551": "nahmii",
+  "6000": "tburn",
   "6001": "bouncebit",
   "6699": "ox",
   "6880": "mtt network",
